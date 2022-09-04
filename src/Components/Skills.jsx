@@ -8,7 +8,6 @@ import ReactImg from '../Assets/react.png';
 import Github from '../Assets/github.png';
 import Java from '../Assets/java.png';
 import Javascript from '../Assets/javascript.png';
-import { FaGit, FaGithub } from 'react-icons/fa';
 
 
 
@@ -20,7 +19,6 @@ return (
                 <p className='text-4xl sm:text-7xl inline border-b-4 border-[#0A0908] font-bold '>Skills</p>
                 <p className='text-xl font-light py-8'>// These are the technologies that i've used.</p>
             </div>
-
             <div className='w-full grid grid-cols-2  sm:grid-cols-4 gap-4 text-center py-8'>
                 <div className='shadow-md bg-[#0A0908] text-[#F2F4F3] rounded-md font-medium shadow-[#F2F4F3] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto mt-5' src={HTML} alt="HTML icon" />

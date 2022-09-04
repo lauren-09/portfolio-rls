@@ -1,9 +1,6 @@
 import React from 'react'
 import {HiArrowNarrowRight} from 'react-icons/hi'
-import {Link} from 'react-scroll'
-import DP from '../Assets/profile.png'
-import Bulb from '../Assets/bulb.jpg'
-import { Parallax } from 'react-parallax'
+
 
 const Home = () => {
     return (
