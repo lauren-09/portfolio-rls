@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/notes/static/css/main.df6a4a2b.css",
-    "main.js": "/notes/static/js/main.ea33bf75.js",
-    "static/media/react.png": "/notes/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/html.png": "/notes/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/github.png": "/notes/static/media/github.44eee0c4a6c25b0d7347.png",
-    "static/media/java.png": "/notes/static/media/java.f5dd86c3ef6ef3f85acf.png",
-    "static/media/css.png": "/notes/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/firebase.png": "/notes/static/media/firebase.209703cedf1b1a96bc52.png",
-    "static/media/android.png": "/notes/static/media/android.9e98e7af05d5841e1fd5.png",
-    "static/media/javascript.png": "/notes/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/notes/index.html",
-    "main.df6a4a2b.css.map": "/notes/static/css/main.df6a4a2b.css.map",
-    "main.ea33bf75.js.map": "/notes/static/js/main.ea33bf75.js.map"
+    "main.css": "/portfolio-rls/static/css/main.df6a4a2b.css",
+    "main.js": "/portfolio-rls/static/js/main.376025db.js",
+    "static/media/react.png": "/portfolio-rls/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/html.png": "/portfolio-rls/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/github.png": "/portfolio-rls/static/media/github.44eee0c4a6c25b0d7347.png",
+    "static/media/java.png": "/portfolio-rls/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/css.png": "/portfolio-rls/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/firebase.png": "/portfolio-rls/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/android.png": "/portfolio-rls/static/media/android.9e98e7af05d5841e1fd5.png",
+    "static/media/javascript.png": "/portfolio-rls/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio-rls/index.html",
+    "main.df6a4a2b.css.map": "/portfolio-rls/static/css/main.df6a4a2b.css.map",
+    "main.376025db.js.map": "/portfolio-rls/static/js/main.376025db.js.map"
   },
   "entrypoints": [
     "static/css/main.df6a4a2b.css",
-    "static/js/main.ea33bf75.js"
+    "static/js/main.376025db.js"
   ]
 }
